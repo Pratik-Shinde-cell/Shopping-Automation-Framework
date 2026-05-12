@@ -1,0 +1,191 @@
+2026-05-11 22:22:19.250 [main] INFO  DeleteAccount - Starting the Browser
+2026-05-11 22:22:32.148 [main] INFO  DeleteAccount - Browser started
+2026-05-11 22:22:32.422 [main] INFO  AccountInformation - Test # Testcase Verify Register User started -----
+2026-05-11 22:22:39.247 [main] INFO  AccountInformation - Step # Clicked on Sign in button
+2026-05-11 22:22:40.150 [main] INFO  AccountInformation - Step # Entered Username Fake Email 1 in the New Username textbox
+2026-05-11 22:22:40.443 [main] INFO  AccountInformation - Step # Entered Email witiyak385@mugstock.com in the Email textbox
+2026-05-11 22:22:43.502 [main] INFO  AccountInformation - Step # Clicked on Sign Up button
+2026-05-11 22:22:43.883 [main] INFO  AccountInformation - Step # ENTER ACCOUNT INFORMATION text is visible
+2026-05-11 22:22:44.199 [main] INFO  AccountInformation - Step # Mrs radio button is selected
+2026-05-11 22:22:44.471 [main] INFO  AccountInformation - Step # Entered Fake Email 1 in Name textbox
+2026-05-11 22:22:44.559 [main] INFO  AccountInformation - Step # Email is correctly fetched
+2026-05-11 22:22:44.716 [main] INFO  AccountInformation - Step # Entered Fake@123 password in the password textbox
+2026-05-11 22:22:46.014 [main] INFO  AccountInformation - Step # Entered Date 25/May/2015
+2026-05-11 22:22:46.179 [main] INFO  AccountInformation - Step # Selected News Letter checkbox
+2026-05-11 22:22:46.344 [main] INFO  AccountInformation - Step # Entered Fake1 in the first name textbox
+2026-05-11 22:22:46.507 [main] INFO  AccountInformation - Step # Entered Account1 in the last name textbox
+2026-05-11 22:22:46.679 [main] INFO  AccountInformation - Step # Entered Automation in the Company name textbox
+2026-05-11 22:22:46.993 [main] INFO  AccountInformation - Step # entered Pune Pune2 in the address textbox
+2026-05-11 22:22:47.343 [main] INFO  AccountInformation - Step # Selected India from the dropdown
+2026-05-11 22:22:47.515 [main] INFO  AccountInformation - Step # Entered Maharashatra in the statename textbox
+2026-05-11 22:22:47.688 [main] INFO  AccountInformation - Step # Entered Pune in the city textbox
+2026-05-11 22:22:47.859 [main] INFO  AccountInformation - Step # Entered 411017 in the Enter zipcode textbox
+2026-05-11 22:22:48.042 [main] INFO  AccountInformation - Step # Entered 1234567890 in the Enter mobile no textbox
+2026-05-11 22:22:49.628 [main] INFO  ScreenshotUtility - Closing the Browser
+2026-05-11 22:22:50.247 [main] INFO  ScreenshotUtility - Browser Closed
+2026-05-11 22:22:50.250 [main] INFO  ScreenshotUtility - Starting the Browser
+2026-05-11 22:23:03.794 [main] INFO  ScreenshotUtility - Browser started
+2026-05-11 22:23:03.809 [main] INFO  AccountInformation - Test # Testcase Verify Register User started -----
+2026-05-11 22:23:05.498 [main] INFO  AccountInformation - Step # Clicked on Sign in button
+2026-05-11 22:23:06.421 [main] INFO  AccountInformation - Step # Entered Username Fake Email 2 in the New Username textbox
+2026-05-11 22:23:06.677 [main] INFO  AccountInformation - Step # Entered Email ranipo6131@pertok.com in the Email textbox
+2026-05-11 22:23:09.180 [main] INFO  AccountInformation - Step # Clicked on Sign Up button
+2026-05-11 22:23:09.245 [main] INFO  AccountInformation - Step # ENTER ACCOUNT INFORMATION text is visible
+2026-05-11 22:23:09.548 [main] INFO  AccountInformation - Step # Mr radio button is selected
+2026-05-11 22:23:09.883 [main] INFO  AccountInformation - Step # Entered Fake Email 2 in Name textbox
+2026-05-11 22:23:09.995 [main] INFO  AccountInformation - Step # Email is correctly fetched
+2026-05-11 22:23:10.452 [main] INFO  AccountInformation - Step # Entered Fake@123 password in the password textbox
+2026-05-11 22:23:11.996 [main] INFO  AccountInformation - Step # Entered Date 25/May/2015
+2026-05-11 22:23:12.179 [main] INFO  AccountInformation - Step # Selected News Letter checkbox
+2026-05-11 22:23:12.410 [main] INFO  AccountInformation - Step # Entered Fake2 in the first name textbox
+2026-05-11 22:23:12.614 [main] INFO  AccountInformation - Step # Entered Account 2 in the last name textbox
+2026-05-11 22:23:12.837 [main] INFO  AccountInformation - Step # Entered Automation in the Company name textbox
+2026-05-11 22:23:13.215 [main] INFO  AccountInformation - Step # entered Pune Pune2 in the address textbox
+2026-05-11 22:23:13.552 [main] INFO  AccountInformation - Step # Selected India from the dropdown
+2026-05-11 22:23:13.774 [main] INFO  AccountInformation - Step # Entered Maharashatra in the statename textbox
+2026-05-11 22:23:13.958 [main] INFO  AccountInformation - Step # Entered Pune in the city textbox
+2026-05-11 22:23:14.163 [main] INFO  AccountInformation - Step # Entered 411017 in the Enter zipcode textbox
+2026-05-11 22:23:14.395 [main] INFO  AccountInformation - Step # Entered 1234567890 in the Enter mobile no textbox
+2026-05-11 22:23:17.178 [main] INFO  AccountInformation - Step # Clicked on Create Account Button
+2026-05-11 22:23:17.178 [main] INFO  AccountInformation - Step # Account Created message is displayed correctly
+2026-05-11 22:23:24.340 [main] INFO  AccountInformation - Step # Clicked on Continue
+2026-05-11 22:23:24.453 [main] INFO  AccountInformation - Step # Username is displayed correctly on the Dashboard
+2026-05-11 22:23:24.453 [main] INFO  AccountInformation - Test # Testcase Create User completed successfully -----
+2026-05-11 22:23:24.461 [main] INFO  AccountInformation - Closing the Browser
+2026-05-11 22:23:25.084 [main] INFO  AccountInformation - Browser Closed
+2026-05-11 22:23:25.132 [main] INFO  AccountInformation - Starting Browser
+2026-05-11 22:23:33.182 [main] INFO  AccountInformation - Browser Started
+2026-05-11 22:23:33.192 [main] INFO  HomePage - Test # Testcase Verify Title Name started -----
+2026-05-11 22:23:34.673 [main] INFO  ScreenshotUtility - Closing the Browser
+2026-05-11 22:23:35.215 [main] INFO  ScreenshotUtility - Browser Closed
+2026-05-11 22:23:35.380 [main] INFO  ScreenshotUtility - Browser starting
+2026-05-11 22:23:44.073 [main] INFO  ScreenshotUtility - Browser Started
+2026-05-11 22:23:44.080 [main] INFO  SignIn - Test # Verify Login Testcase started -----
+2026-05-11 22:23:45.909 [main] INFO  SignIn - Step # Clicked on Login
+2026-05-11 22:23:46.181 [main] INFO  SignIn - Step # Entered witiyak385@mugstock.com email in the Email textbox
+2026-05-11 22:23:46.326 [main] INFO  SignIn - Step # Entered Fake@123 passoword in the password textbox
+2026-05-11 22:23:49.888 [main] INFO  SignIn - Step # Clicked on Login Button
+2026-05-11 22:24:00.245 [main] INFO  ScreenshotUtility - Closing the browser
+2026-05-11 22:24:00.938 [main] INFO  ScreenshotUtility - Browser Closed
+2026-05-11 22:24:01.059 [main] INFO  ScreenshotUtility -  Browser Initialization Start
+2026-05-11 22:24:09.867 [main] INFO  ScreenshotUtility - Browser Loaded Successfully
+2026-05-11 22:24:09.878 [main] INFO  SignIn - Test # Delete Account Test Started -----
+2026-05-11 22:24:11.429 [main] INFO  SignIn - Step # Clicked on Login
+2026-05-11 22:24:12.545 [main] INFO  SignIn - Step # Entered witiyak385@mugstock.com email in the Email textbox
+2026-05-11 22:24:12.788 [main] INFO  SignIn - Step # EnteredFake@123 password in the password tab
+2026-05-11 22:24:14.605 [main] INFO  SignIn - Step # Clicked on Login button
+2026-05-11 22:24:24.891 [main] INFO  ScreenshotUtility - Closing Browser
+2026-05-11 22:24:25.488 [main] INFO  ScreenshotUtility - Browser Closed
+2026-05-11 22:24:25.490 [main] INFO  ScreenshotUtility -  Browser Initialization Start
+2026-05-11 22:24:32.804 [main] INFO  ScreenshotUtility - Browser Loaded Successfully
+2026-05-11 22:24:32.807 [main] INFO  SignIn - Test # Delete Account Test Started -----
+2026-05-11 22:24:34.326 [main] INFO  SignIn - Step # Clicked on Login
+2026-05-11 22:24:35.578 [main] INFO  SignIn - Step # Entered ranipo6131@pertok.com email in the Email textbox
+2026-05-11 22:24:35.821 [main] INFO  SignIn - Step # EnteredFake@123 password in the password tab
+2026-05-11 22:24:40.419 [main] INFO  SignIn - Step # Clicked on Login button
+2026-05-11 22:24:42.060 [main] INFO  SignIn - Step # Clicked on Delete button
+2026-05-11 22:24:42.158 [main] INFO  SignIn - Step # Deletion completed
+2026-05-11 22:24:46.077 [main] INFO  SignIn - Test # Delete Account Test completed -----
+2026-05-11 22:24:46.087 [main] INFO  SignIn - Closing Browser
+2026-05-11 22:24:46.538 [main] INFO  SignIn - Browser Closed
+2026-05-11 22:30:52.630 [main] INFO  DeleteAccount - Starting Browser
+2026-05-11 22:31:02.042 [main] INFO  DeleteAccount - Browser Started
+2026-05-11 22:31:02.141 [main] INFO  HomePage - Test # Testcase Verify Title Name started -----
+2026-05-11 22:31:02.737 [main] INFO  ScreenshotUtility - Closing the Browser
+2026-05-11 22:31:03.380 [main] INFO  ScreenshotUtility - Browser Closed
+2026-05-11 22:31:04.955 [main] INFO  ScreenshotUtility - Starting the Browser
+2026-05-11 22:31:09.390 [main] INFO  ScreenshotUtility - Browser started
+2026-05-11 22:31:09.500 [main] INFO  AccountInformation - Test # Testcase Verify Register User started -----
+2026-05-11 22:31:13.631 [main] INFO  AccountInformation - Step # Clicked on Sign in button
+2026-05-11 22:31:14.298 [main] INFO  AccountInformation - Step # Entered Username Fake Email 1 in the New Username textbox
+2026-05-11 22:31:14.585 [main] INFO  AccountInformation - Step # Entered Email witiyak385@mugstock.com in the Email textbox
+2026-05-11 22:31:15.942 [main] INFO  AccountInformation - Step # Clicked on Sign Up button
+2026-05-11 22:31:16.018 [main] INFO  AccountInformation - Step # ENTER ACCOUNT INFORMATION text is visible
+2026-05-11 22:31:16.749 [main] INFO  AccountInformation - Step # Mrs radio button is selected
+2026-05-11 22:31:17.263 [main] INFO  AccountInformation - Step # Entered Fake Email 1 in Name textbox
+2026-05-11 22:31:17.387 [main] INFO  AccountInformation - Step # Email is correctly fetched
+2026-05-11 22:31:17.703 [main] INFO  AccountInformation - Step # Entered Fake@123 password in the password textbox
+2026-05-11 22:31:19.226 [main] INFO  AccountInformation - Step # Entered Date 25/May/2015
+2026-05-11 22:31:19.408 [main] INFO  AccountInformation - Step # Selected News Letter checkbox
+2026-05-11 22:31:19.600 [main] INFO  AccountInformation - Step # Entered Fake1 in the first name textbox
+2026-05-11 22:31:19.857 [main] INFO  AccountInformation - Step # Entered Account1 in the last name textbox
+2026-05-11 22:31:20.349 [main] INFO  AccountInformation - Step # Entered Automation in the Company name textbox
+2026-05-11 22:31:20.708 [main] INFO  AccountInformation - Step # entered Pune Pune2 in the address textbox
+2026-05-11 22:31:21.119 [main] INFO  AccountInformation - Step # Selected India from the dropdown
+2026-05-11 22:31:21.337 [main] INFO  AccountInformation - Step # Entered Maharashatra in the statename textbox
+2026-05-11 22:31:21.516 [main] INFO  AccountInformation - Step # Entered Pune in the city textbox
+2026-05-11 22:31:21.696 [main] INFO  AccountInformation - Step # Entered 411017 in the Enter zipcode textbox
+2026-05-11 22:31:21.915 [main] INFO  AccountInformation - Step # Entered 1234567890 in the Enter mobile no textbox
+2026-05-11 22:31:24.853 [main] INFO  AccountInformation - Step # Clicked on Create Account Button
+2026-05-11 22:31:24.854 [main] INFO  AccountInformation - Step # Account Created message is displayed correctly
+2026-05-11 22:31:28.706 [main] INFO  AccountInformation - Step # Clicked on Continue
+2026-05-11 22:31:29.117 [main] INFO  AccountInformation - Step # Username is displayed correctly on the Dashboard
+2026-05-11 22:31:29.118 [main] INFO  AccountInformation - Test # Testcase Create User completed successfully -----
+2026-05-11 22:31:29.133 [main] INFO  AccountInformation - Closing the Browser
+2026-05-11 22:31:29.767 [main] INFO  AccountInformation - Browser Closed
+2026-05-11 22:31:29.770 [main] INFO  AccountInformation - Starting the Browser
+2026-05-11 22:31:38.252 [main] INFO  AccountInformation - Browser started
+2026-05-11 22:31:38.263 [main] INFO  AccountInformation - Test # Testcase Verify Register User started -----
+2026-05-11 22:31:39.803 [main] INFO  AccountInformation - Step # Clicked on Sign in button
+2026-05-11 22:31:41.180 [main] INFO  AccountInformation - Step # Entered Username Fake Email 2 in the New Username textbox
+2026-05-11 22:31:41.456 [main] INFO  AccountInformation - Step # Entered Email ranipo6131@pertok.com in the Email textbox
+2026-05-11 22:31:44.309 [main] INFO  AccountInformation - Step # Clicked on Sign Up button
+2026-05-11 22:31:44.582 [main] INFO  AccountInformation - Step # ENTER ACCOUNT INFORMATION text is visible
+2026-05-11 22:31:45.664 [main] INFO  AccountInformation - Step # Mr radio button is selected
+2026-05-11 22:31:46.704 [main] INFO  AccountInformation - Step # Entered Fake Email 2 in Name textbox
+2026-05-11 22:31:46.803 [main] INFO  AccountInformation - Step # Email is correctly fetched
+2026-05-11 22:31:47.241 [main] INFO  AccountInformation - Step # Entered Fake@123 password in the password textbox
+2026-05-11 22:31:49.345 [main] INFO  AccountInformation - Step # Entered Date 25/May/2015
+2026-05-11 22:31:49.567 [main] INFO  AccountInformation - Step # Selected News Letter checkbox
+2026-05-11 22:31:49.774 [main] INFO  AccountInformation - Step # Entered Fake2 in the first name textbox
+2026-05-11 22:31:50.001 [main] INFO  AccountInformation - Step # Entered Account 2 in the last name textbox
+2026-05-11 22:31:50.237 [main] INFO  AccountInformation - Step # Entered Automation in the Company name textbox
+2026-05-11 22:31:50.657 [main] INFO  AccountInformation - Step # entered Pune Pune2 in the address textbox
+2026-05-11 22:31:51.040 [main] INFO  AccountInformation - Step # Selected India from the dropdown
+2026-05-11 22:31:51.281 [main] INFO  AccountInformation - Step # Entered Maharashatra in the statename textbox
+2026-05-11 22:31:51.467 [main] INFO  AccountInformation - Step # Entered Pune in the city textbox
+2026-05-11 22:31:51.684 [main] INFO  AccountInformation - Step # Entered 411017 in the Enter zipcode textbox
+2026-05-11 22:31:51.904 [main] INFO  AccountInformation - Step # Entered 1234567890 in the Enter mobile no textbox
+2026-05-11 22:31:54.775 [main] INFO  AccountInformation - Step # Clicked on Create Account Button
+2026-05-11 22:31:54.775 [main] INFO  AccountInformation - Step # Account Created message is displayed correctly
+2026-05-11 22:31:57.334 [main] INFO  AccountInformation - Step # Clicked on Continue
+2026-05-11 22:31:57.567 [main] INFO  AccountInformation - Step # Username is displayed correctly on the Dashboard
+2026-05-11 22:31:57.567 [main] INFO  AccountInformation - Test # Testcase Create User completed successfully -----
+2026-05-11 22:31:57.576 [main] INFO  AccountInformation - Closing the Browser
+2026-05-11 22:31:58.124 [main] INFO  AccountInformation - Browser Closed
+2026-05-11 22:31:58.300 [main] INFO  AccountInformation - Browser starting
+2026-05-11 22:32:02.712 [main] INFO  AccountInformation - Browser Started
+2026-05-11 22:32:02.727 [main] INFO  SignIn - Test # Verify Login Testcase started -----
+2026-05-11 22:32:06.521 [main] INFO  SignIn - Step # Clicked on Login
+2026-05-11 22:32:08.083 [main] INFO  SignIn - Step # Entered witiyak385@mugstock.com email in the Email textbox
+2026-05-11 22:32:08.535 [main] INFO  SignIn - Step # Entered Fake@123 passoword in the password textbox
+2026-05-11 22:32:12.340 [main] INFO  SignIn - Step # Clicked on Login Button
+2026-05-11 22:32:13.486 [main] INFO  SignIn - Step # Username is displayed correctly on the Dashboard
+2026-05-11 22:32:15.987 [main] INFO  SignIn - Step # Clicked on Log-out
+2026-05-11 22:32:15.988 [main] INFO  SignIn - Test # Verify Login Testcase Completed Successfully -----
+2026-05-11 22:32:16.000 [main] INFO  SignIn - Closing the browser
+2026-05-11 22:32:16.530 [main] INFO  SignIn - Browser Closed
+2026-05-11 22:32:16.712 [main] INFO  SignIn -  Browser Initialization Start
+2026-05-11 22:32:34.002 [main] INFO  SignIn - Browser Loaded Successfully
+2026-05-11 22:32:34.020 [main] INFO  SignIn - Test # Delete Account Test Started -----
+2026-05-11 22:32:36.816 [main] INFO  SignIn - Step # Clicked on Login
+2026-05-11 22:32:37.547 [main] INFO  SignIn - Step # Entered witiyak385@mugstock.com email in the Email textbox
+2026-05-11 22:32:37.733 [main] INFO  SignIn - Step # EnteredFake@123 password in the password tab
+2026-05-11 22:32:45.867 [main] INFO  SignIn - Step # Clicked on Login button
+2026-05-11 22:32:48.121 [main] INFO  SignIn - Step # Clicked on Delete button
+2026-05-11 22:32:48.238 [main] INFO  SignIn - Step # Deletion completed
+2026-05-11 22:32:56.114 [main] INFO  SignIn - Test # Delete Account Test completed -----
+2026-05-11 22:32:56.119 [main] INFO  SignIn - Closing Browser
+2026-05-11 22:32:56.599 [main] INFO  SignIn - Browser Closed
+2026-05-11 22:32:56.601 [main] INFO  SignIn -  Browser Initialization Start
+2026-05-11 22:33:05.653 [main] INFO  SignIn - Browser Loaded Successfully
+2026-05-11 22:33:05.669 [main] INFO  SignIn - Test # Delete Account Test Started -----
+2026-05-11 22:33:07.192 [main] INFO  SignIn - Step # Clicked on Login
+2026-05-11 22:33:07.991 [main] INFO  SignIn - Step # Entered ranipo6131@pertok.com email in the Email textbox
+2026-05-11 22:33:08.186 [main] INFO  SignIn - Step # EnteredFake@123 password in the password tab
+2026-05-11 22:33:13.712 [main] INFO  SignIn - Step # Clicked on Login button
+2026-05-11 22:33:15.464 [main] INFO  SignIn - Step # Clicked on Delete button
+2026-05-11 22:33:15.694 [main] INFO  SignIn - Step # Deletion completed
+2026-05-11 22:33:22.094 [main] INFO  SignIn - Test # Delete Account Test completed -----
+2026-05-11 22:33:22.101 [main] INFO  SignIn - Closing Browser
+2026-05-11 22:33:22.537 [main] INFO  SignIn - Browser Closed

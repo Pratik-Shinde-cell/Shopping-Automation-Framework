@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-11T22:30:51 IST" name="Suite" finished-at="2026-05-11T22:33:22 IST" duration-ms="151035">
+    <groups>
+    </groups>
+    <test started-at="2026-05-11T22:30:51 IST" name="Test" finished-at="2026-05-11T22:33:22 IST" duration-ms="151035">
+      <class name="com.shopping.pratik_practice.TestCases.DeleteAccount">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.shopping.pratik_practice.TestCases.DeleteAccount@4397ad89]" started-at="2026-05-11T22:32:16 IST" name="init" finished-at="2026-05-11T22:32:34 IST" duration-ms="17302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="deleteaccount(java.lang.String,java.lang.String)[pri:1, instance:com.shopping.pratik_practice.TestCases.DeleteAccount@4397ad89]" started-at="2026-05-11T22:32:34 IST" name="deleteaccount" data-provider="CreateUser" finished-at="2026-05-11T22:32:56 IST" duration-ms="22100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[witiyak385@mugstock.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fake@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteaccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.shopping.pratik_practice.TestCases.DeleteAccount@4397ad89]" started-at="2026-05-11T22:32:56 IST" name="teardown" finished-at="2026-05-11T22:32:56 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.shopping.pratik_practice.TestCases.DeleteAccount@4397ad89]" started-at="2026-05-11T22:32:56 IST" name="init" finished-at="2026-05-11T22:33:05 IST" duration-ms="9060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="deleteaccount(java.lang.String,java.lang.String)[pri:1, instance:com.shopping.pratik_practice.TestCases.DeleteAccount@4397ad89]" started-at="2026-05-11T22:33:05 IST" name="deleteaccount" data-provider="CreateUser" finished-at="2026-05-11T22:33:22 IST" duration-ms="16434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ranipo6131@pertok.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fake@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteaccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.shopping.pratik_practice.TestCases.DeleteAccount@4397ad89]" started-at="2026-05-11T22:33:22 IST" name="teardown" finished-at="2026-05-11T22:33:22 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.shopping.pratik_practice.TestCases.DeleteAccount -->
+      <class name="com.shopping.pratik_practice.TestCases.Verifyhometitlename">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.shopping.pratik_practice.TestCases.Verifyhometitlename@21129f1f]" started-at="2026-05-11T22:30:52 IST" name="init" finished-at="2026-05-11T22:31:02 IST" duration-ms="9493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifytitle()[pri:3, instance:com.shopping.pratik_practice.TestCases.Verifyhometitlename@21129f1f]" started-at="2026-05-11T22:31:02 IST" name="verifytitle" finished-at="2026-05-11T22:31:02 IST" duration-ms="64" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Automation Exercise] but found [Automation Exercises]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Automation Exercise] but found [Automation Exercises]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.shopping.pratik_practice.TestCases.Verifyhometitlename.verifytitle(Verifyhometitlename.java:23)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.shopping.pratik_practice.TestCases.Verifyhometitlename@21129f1f]" started-at="2026-05-11T22:31:02 IST" name="teardown" finished-at="2026-05-11T22:31:03 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.shopping.pratik_practice.TestCases.Verifyhometitlename -->
+      <class name="com.shopping.pratik_practice.TestCases.VerifyRegisterUser">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.shopping.pratik_practice.TestCases.VerifyRegisterUser@3d246ea3]" started-at="2026-05-11T22:31:04 IST" name="init" finished-at="2026-05-11T22:31:09 IST" duration-ms="4479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:com.shopping.pratik_practice.TestCases.VerifyRegisterUser@3d246ea3]" started-at="2026-05-11T22:31:09 IST" name="verifyRegistration" data-provider="CreateUser" finished-at="2026-05-11T22:31:29 IST" duration-ms="19685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fake Email 1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[witiyak385@mugstock.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Fake@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Fake1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Account1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Pune2]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Maharashatra]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[411017]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.shopping.pratik_practice.TestCases.VerifyRegisterUser@3d246ea3]" started-at="2026-05-11T22:31:29 IST" name="afterMethod" finished-at="2026-05-11T22:31:29 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.shopping.pratik_practice.TestCases.VerifyRegisterUser@3d246ea3]" started-at="2026-05-11T22:31:29 IST" name="init" finished-at="2026-05-11T22:31:38 IST" duration-ms="8489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:com.shopping.pratik_practice.TestCases.VerifyRegisterUser@3d246ea3]" started-at="2026-05-11T22:31:38 IST" name="verifyRegistration" data-provider="CreateUser" finished-at="2026-05-11T22:31:57 IST" duration-ms="19310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fake Email 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ranipo6131@pertok.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Fake@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Fake2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Account 2]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Pune2]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Maharashatra]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[411017]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.shopping.pratik_practice.TestCases.VerifyRegisterUser@3d246ea3]" started-at="2026-05-11T22:31:57 IST" name="afterMethod" finished-at="2026-05-11T22:31:58 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.shopping.pratik_practice.TestCases.VerifyRegisterUser -->
+      <class name="com.shopping.pratik_practice.TestCases.LoginWithAccount">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.shopping.pratik_practice.TestCases.LoginWithAccount@341814d3]" started-at="2026-05-11T22:31:58 IST" name="init" finished-at="2026-05-11T22:32:02 IST" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifylogins(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.shopping.pratik_practice.TestCases.LoginWithAccount@341814d3]" started-at="2026-05-11T22:32:02 IST" name="verifylogins" data-provider="CreateUser" finished-at="2026-05-11T22:32:15 IST" duration-ms="13271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[witiyak385@mugstock.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fake@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fake Email 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogins -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.shopping.pratik_practice.TestCases.LoginWithAccount@341814d3]" started-at="2026-05-11T22:32:15 IST" name="teardown" finished-at="2026-05-11T22:32:16 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.shopping.pratik_practice.TestCases.LoginWithAccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
